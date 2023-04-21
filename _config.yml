@@ -85,8 +85,6 @@ author:
   bio              : "I am from China"
   location         : "China"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     : 
   uri              :
@@ -96,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "MPaloze"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +107,6 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          :# "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
