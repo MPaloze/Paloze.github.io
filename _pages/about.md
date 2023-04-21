@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My current research direction is AI security.
+I am currently studying in the School of Cyberspace Security, Nanjing University of Technology for my master's degree, and my main research direction is AI security.
