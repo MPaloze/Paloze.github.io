@@ -9,7 +9,7 @@
 locale                   : "China"
 title                    : "Paloze"
 title_separator          : "-"
-name                     : &name "huaibing Peng"
+name                     : &name "Huaibing Peng"
 description              : &description "I am from China"
 url                      : https://mpaloze.github.io/Paloze.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
